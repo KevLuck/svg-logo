@@ -1,0 +1,19 @@
+{
+  "name": "svg-logo",
+  "version": "1.0.0",
+  "description": "A command-line logo generator that allows you to input the logo specifications you want and generate your logo. The logo specifications include the text, color, and shape of the logo. The logo is generated as an SVG file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
